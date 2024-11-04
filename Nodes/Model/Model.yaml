@@ -1,0 +1,5 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- File: LocalVariables/LocalVariables.yaml
+- File: LanguageVariables/LanguageVariables.yaml

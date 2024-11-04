@@ -1,0 +1,14 @@
+Name: LocalVariables
+Type: FolderType
+Children:
+- Name: varAccordianExpand
+  Id: g=1a4d4c983e09155c4bfe5fe69e9454c1
+  Type: BaseDataVariableType
+  DataType: Boolean
+- Name: varLanguageCurrent
+  Id: g=33ab7f6255a5f83a1d3217fc9bac6688
+  Type: BaseDataVariableType
+  DataType: String
+- Name: varPDF_Page
+  Type: BaseDataVariableType
+  DataType: Int32

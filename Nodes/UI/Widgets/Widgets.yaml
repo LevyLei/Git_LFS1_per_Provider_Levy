@@ -1,0 +1,4 @@
+Name: Widgets
+Type: FolderType
+Children:
+- File: DeviceSettingsWidget1/DeviceSettingsWidget1.yaml

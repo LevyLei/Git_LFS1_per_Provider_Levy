@@ -1,0 +1,25 @@
+Name: LanguageVariables
+Id: g=f1d31fa602db19d5bc8a1e89dcd27091
+Type: FolderType
+Children:
+- Name: ENG
+  Id: g=494ebe2ded7c97e359bf9f02d8b9499c
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "en-US"
+- Name: SP
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "es-ES"
+- Name: FR
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "fr-FR"
+- Name: CH
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "zh-CN"
+- Name: IT
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "it-IT"
